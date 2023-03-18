@@ -1,4 +1,4 @@
-module github.com/bwplotka/tmp-testmodule/submodule/v2
+module github.com/bwplotka/tmp-testmodule/v2/submodule
 
 go 1.20
 
